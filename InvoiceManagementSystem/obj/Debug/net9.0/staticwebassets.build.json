@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Fnn2VrXORWEtaKYo6ZAdfAGcz4MDKQDENzvdv9aXZig=",
+  "Source": "InvoiceManagementSystem",
+  "BasePath": "_content/InvoiceManagementSystem",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
